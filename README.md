@@ -1,3 +1,3 @@
 This is basic vector class implementation using array structure.
-employed classic Class by "the Rule of 3" introduced to me by Alexander.
+Ctreated class according "the Rule of 3" introduced to me by Alexander.
 
